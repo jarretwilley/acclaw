@@ -22,5 +22,4 @@ ACCE adds a structured, adaptive control loop on top of OpenClaw with automatic 
 ## Installation
 
 ```bash
-pip install git+https://github.com/jarretwilley/acclaw.git# acclaw
-Adaptive Cyclical Control Engine for OpenClaw
+pip install git+https://github.com/jarretwilley/acclaw.git
